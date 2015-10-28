@@ -1,0 +1,12 @@
+
+body  { font-family: Verdana;
+        background-color: #fafbff; }
+     
+ 
+h1,h2 { font-color: #29507C; }
+h1    { margin-bottom: 0px; margin-top: 15px; 
+        font-size: 42px; }
+h2    { margin-top: 0px; } 
+
+#div  { display: flex; float: center;
+        width: 100%; }
