@@ -1,12 +1,37 @@
-
-body  { font-family: Verdana;
-        background-color: #fafbff; }
-     
+body { 
+  font-family: Verdana;
+  background-color: #fafbff; 
+}
+   
  
-h1,h2 { font-color: #29507C; }
-h1    { margin-bottom: 0px; margin-top: 15px; 
-        font-size: 42px; }
-h2    { margin-top: 0px; } 
+h1,h2 { 
+  font-color: #29507C; 
+}
 
-#div  { display: flex; float: center;
-        width: 100%; }
+h1 { 
+  margin-bottom: 0px; 
+  margin-top: 15px;
+  font-size: 33px; 
+}
+
+h2 { 
+  margin-top: 0px;
+}
+ 
+
+#container { 
+  display: flex;
+  float: center;
+  width: 100%; 
+  margin-top: 30px; 
+}
+
+#title {
+  width: 30%; 
+  color: #19487d; 
+}
+
+#cal {
+  width: 100%;
+  
+}
